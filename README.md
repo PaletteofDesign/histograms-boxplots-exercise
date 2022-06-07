@@ -1,5 +1,5 @@
 # Histogram and Boxplot Examples
-## Data Set: catsvdogs.xlsx
+## Dataset: catsvdogs.xlsx
 
 Simile examples of using histograms and boxplots to view statistical data.
 
